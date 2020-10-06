@@ -1,4 +1,4 @@
-# 2PMVascSeg
+# 2PM Vascular Segmentation DNN
 
 Code for vascular segmentation of large-scale cerebral two-photon microscopy angiograms.
 
